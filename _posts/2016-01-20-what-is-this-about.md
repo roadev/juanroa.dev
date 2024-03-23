@@ -14,7 +14,7 @@ el despegue que planteé desde el principio, tal es el caso de [bitmemories](htt
 Aquí reuniré desde lo mencionado arriba hasta artículos sobre emprendimiento, desarrollo de software, computación, consejos y experiencias personales en estos campos.
 
 Estoy implementando el sistema de comentarios con Disqus, así que por el momento me pueden contactar a
-[contact@juanroa.me](mailto:contact@juanroa.me)
+[contact@juanroa.me](mailto:contact@juanroa.dev)
 
 [Follow me at twitter!](https://twitter.com/jroadev)
 
@@ -25,5 +25,5 @@ Copyright © 2016 Juan Roa. Theme by [Josh Gerdes][Josh-Gerdes-repo]. Hosted by 
 
 [jekyll]:           http://jekyllrb.com/
 [gh-pages]:         https://pages.github.com/
-[my-repo]:          https://github.com/roadev/juanroa.me
+[my-repo]:          https://github.com/roadev/juanroa.dev
 [Josh-Gerdes-repo]: https://github.com/joshgerdes
